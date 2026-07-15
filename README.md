@@ -311,8 +311,3 @@ Computer Engineering Student
 
 Machine Learning & Deep Learning Enthusiast
 
----
-
-# ⭐ If you like this project...
-
-Give it a ⭐ on GitHub!
